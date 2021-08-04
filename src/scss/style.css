@@ -1,4 +1,27 @@
-.ura {
+.ieia {
+  height: 50px;
+  background-color: black;
+}
+
+.lengs-ico {
+  margin: 0 1.2rem 1.2rem 0;
+}
+
+.about {
+  position: relative;
+  bottom: 70%;
+}
+.about-autor {
+  position: relative;
+  left: 15%;
+}
+.about-autor-rombo {
   position: absolute;
-  left: 70%;
+  transform: translate(-100px, -100px) rotate(45deg);
+  border: 1px solid red;
+  height: 400px;
+  width: 400px;
+}
+.navbar {
+  z-index: 1000;
 }/*# sourceMappingURL=style.css.map */

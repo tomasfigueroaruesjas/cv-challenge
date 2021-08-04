@@ -1,0 +1,22 @@
+.lengs-ico {
+  margin: 0 1.2rem 1.2rem 0;
+}
+
+.about {
+  position: relative;
+  bottom: 70%;
+  &-autor {
+    position: relative;
+    left: 15%;
+    &-rombo {
+      position: absolute;
+      transform: translate(-100px, -100px) rotate(45deg);
+
+      border: 1px solid red;
+      height: 400px;
+      width: 400px;
+    }
+    &-img img {
+    }
+  }
+}
